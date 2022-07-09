@@ -46,3 +46,5 @@ function countLanguages(list) {
   }
 
 console.log(countLanguages(list1));
+
+// prova
